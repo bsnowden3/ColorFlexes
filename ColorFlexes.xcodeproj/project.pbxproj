@@ -1,0 +1,459 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7E1F3F63176FB74600D40FD4 /* CirlcePinchWhirlIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E1F3F62176FB74600D40FD4 /* CirlcePinchWhirlIcon.png */; };
+		7E1F3F65176FB75800D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E1F3F64176FB75800D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png */; };
+		7E1F3F67176FB77700D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E1F3F66176FB77700D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png */; };
+		7E1F3F69176FB78E00D40FD4 /* CirlcePinchWhirlIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E1F3F68176FB78E00D40FD4 /* CirlcePinchWhirlIcon.png */; };
+		7E1F3F6B176FB8BC00D40FD4 /* StartScreenCirclePinchWhirl.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E1F3F6A176FB8BC00D40FD4 /* StartScreenCirclePinchWhirl.png */; };
+		7E3E7CC8176E1D9600CA3B21 /* StartScreenCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7CC7176E1D9600CA3B21 /* StartScreenCircle.png */; };
+		7E3E7CCE176E1FAE00CA3B21 /* CircleCrossIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7CCD176E1FAE00CA3B21 /* CircleCrossIcon.png */; };
+		7E3E7CD0176E1FC300CA3B21 /* CircleCrossIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7CCF176E1FC300CA3B21 /* CircleCrossIcon.png */; };
+		7E3E7CD2176E206100CA3B21 /* StartScreenCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7CD1176E206100CA3B21 /* StartScreenCircle.png */; };
+		7E3E7CD4176E214100CA3B21 /* CircleCrossIconRetinaDisplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7CD3176E214100CA3B21 /* CircleCrossIconRetinaDisplay.png */; };
+		7E3E7CD6176E215000CA3B21 /* CircleCrossIconRetinaDisplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7CD5176E215000CA3B21 /* CircleCrossIconRetinaDisplay.png */; };
+		7E59FE2B176D49A8006989A7 /* StartScreenLineNova.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E59FE2A176D49A8006989A7 /* StartScreenLineNova.jpg */; };
+		7E59FE2D176D4A74006989A7 /* StartScreenLineNova.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E59FE2C176D4A74006989A7 /* StartScreenLineNova.png */; };
+		7E59FE2F176D4AB4006989A7 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E59FE2E176D4AB4006989A7 /* Default.png */; };
+		7E5B36EA15F505FE00D467E6 /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E5B36E915F505FE00D467E6 /* blue.png */; };
+		7E5B36EC15F50AA600D467E6 /* purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E5B36EB15F50AA600D467E6 /* purple.png */; };
+		7E5B36F215F50E1800D467E6 /* pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E5B36F115F50E1800D467E6 /* pink.png */; };
+		7E5B36F515F5132B00D467E6 /* brown.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E5B36F415F5132B00D467E6 /* brown.png */; };
+		7E721E9415F3A0E000C33AD7 /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E721E9315F3A0E000C33AD7 /* yellow.png */; };
+		7E721E9715F3A0EA00C33AD7 /* orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E721E9615F3A0EA00C33AD7 /* orange.png */; };
+		7E721E9915F3A0F400C33AD7 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E721E9815F3A0F400C33AD7 /* green.png */; };
+		7E721E9B15F3A10200C33AD7 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E721E9A15F3A10200C33AD7 /* red.png */; };
+		7EA1A0F11775EC27000A5D83 /* ColorFlexesRoundCornersScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA1A0F01775EC27000A5D83 /* ColorFlexesRoundCornersScreen.png */; };
+		7EA1A0F31775EC55000A5D83 /* ColorPanesRoundCornersIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA1A0F21775EC55000A5D83 /* ColorPanesRoundCornersIcon.png */; };
+		7EA1A0F91775EFD2000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA1A0F81775EFD2000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png */; };
+		7EA1A0FB1775F006000A5D83 /* ColorPanesRoundCornersIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA1A0FA1775F006000A5D83 /* ColorPanesRoundCornersIcon.png */; };
+		7EA1A0FD1775F014000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA1A0FC1775F014000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png */; };
+		7EA469D715FACDFA00D10848 /* gray.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA469D615FACDFA00D10848 /* gray.png */; };
+		7EA71E3E16B422B2001952BB /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EA71E3D16B422B2001952BB /* AudioToolbox.framework */; };
+		7EA71E4016B42716001952BB /* RewardSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7EA71E3F16B42716001952BB /* RewardSound.mp3 */; };
+		7EA71E4216B42751001952BB /* buzzer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7EA71E4116B42751001952BB /* buzzer.mp3 */; };
+		7EAC488E15E03DAD000721A6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EAC488D15E03DAD000721A6 /* UIKit.framework */; };
+		7EAC489015E03DAD000721A6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EAC488F15E03DAD000721A6 /* Foundation.framework */; };
+		7EAC489215E03DAD000721A6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EAC489115E03DAD000721A6 /* CoreGraphics.framework */; };
+		7EAC489815E03DAD000721A6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7EAC489615E03DAD000721A6 /* InfoPlist.strings */; };
+		7EAC489A15E03DAD000721A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAC489915E03DAD000721A6 /* main.m */; };
+		7EAC489E15E03DAD000721A6 /* ColorFlexAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAC489D15E03DAD000721A6 /* ColorFlexAppDelegate.m */; };
+		7EAC48AA15E04029000721A6 /* ColorFlexStartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAC48A815E04029000721A6 /* ColorFlexStartViewController.m */; };
+		7EAC48AB15E04029000721A6 /* ColorFlexStartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7EAC48A915E04029000721A6 /* ColorFlexStartViewController.xib */; };
+		7EAC48AF15E0424D000721A6 /* ColorFlexPlayScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAC48AD15E0424D000721A6 /* ColorFlexPlayScreenViewController.m */; };
+		7EAC48B015E0424D000721A6 /* ColorFlexPlayScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7EAC48AE15E0424D000721A6 /* ColorFlexPlayScreenViewController.xib */; };
+		7EB3205D15F230F200142DAB /* ColorFlexButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EB3205C15F230F200142DAB /* ColorFlexButton.m */; };
+		7EE4740E16299ACF00A41184 /* blankState.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EE4740D16299ACF00A41184 /* blankState.png */; };
+		7EFE1DCD1615E5CA009A5EA2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EFE1DCC1615E5CA009A5EA2 /* Default-568h@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7E1F3F62176FB74600D40FD4 /* CirlcePinchWhirlIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CirlcePinchWhirlIcon.png; path = "../../../../Dropbox/Iphone App Resources/CirlcePinchWhirlIcon.png"; sourceTree = "<group>"; };
+		7E1F3F64176FB75800D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CirlcePinchWhirlIconRetinaDisplay.png; path = "../../../../Dropbox/Iphone App Resources/CirlcePinchWhirlIconRetinaDisplay.png"; sourceTree = "<group>"; };
+		7E1F3F66176FB77700D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CirlcePinchWhirlIconRetinaDisplay.png; sourceTree = "<group>"; };
+		7E1F3F68176FB78E00D40FD4 /* CirlcePinchWhirlIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CirlcePinchWhirlIcon.png; sourceTree = "<group>"; };
+		7E1F3F6A176FB8BC00D40FD4 /* StartScreenCirclePinchWhirl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StartScreenCirclePinchWhirl.png; path = "../../../../Dropbox/Iphone App Resources/StartScreenCirclePinchWhirl.png"; sourceTree = "<group>"; };
+		7E3E7CC7176E1D9600CA3B21 /* StartScreenCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StartScreenCircle.png; path = "../../../../Dropbox/Iphone App Resources/StartScreenCircle.png"; sourceTree = "<group>"; };
+		7E3E7CCD176E1FAE00CA3B21 /* CircleCrossIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CircleCrossIcon.png; path = "../../../../Dropbox/Iphone App Resources/CircleCrossIcon.png"; sourceTree = "<group>"; };
+		7E3E7CCF176E1FC300CA3B21 /* CircleCrossIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CircleCrossIcon.png; sourceTree = "<group>"; };
+		7E3E7CD1176E206100CA3B21 /* StartScreenCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartScreenCircle.png; sourceTree = "<group>"; };
+		7E3E7CD3176E214100CA3B21 /* CircleCrossIconRetinaDisplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CircleCrossIconRetinaDisplay.png; sourceTree = "<group>"; };
+		7E3E7CD5176E215000CA3B21 /* CircleCrossIconRetinaDisplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CircleCrossIconRetinaDisplay.png; sourceTree = "<group>"; };
+		7E59FE2A176D49A8006989A7 /* StartScreenLineNova.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = StartScreenLineNova.jpg; path = "../../../../Dropbox/Iphone App Resources/StartScreenLineNova.jpg"; sourceTree = "<group>"; };
+		7E59FE2C176D4A74006989A7 /* StartScreenLineNova.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StartScreenLineNova.png; path = ../../../StartScreenLineNova.png; sourceTree = "<group>"; };
+		7E59FE2E176D4AB4006989A7 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		7E5B36E915F505FE00D467E6 /* blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue.png; sourceTree = "<group>"; };
+		7E5B36EB15F50AA600D467E6 /* purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = purple.png; sourceTree = "<group>"; };
+		7E5B36F115F50E1800D467E6 /* pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pink.png; sourceTree = "<group>"; };
+		7E5B36F415F5132B00D467E6 /* brown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brown.png; sourceTree = "<group>"; };
+		7E721E9315F3A0E000C33AD7 /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow.png; sourceTree = "<group>"; };
+		7E721E9615F3A0EA00C33AD7 /* orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orange.png; sourceTree = "<group>"; };
+		7E721E9815F3A0F400C33AD7 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
+		7E721E9A15F3A10200C33AD7 /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
+		7EA1A0F01775EC27000A5D83 /* ColorFlexesRoundCornersScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ColorFlexesRoundCornersScreen.png; path = "../../../../Dropbox/Iphone App Resources/ColorFlexesRoundCornersScreen.png"; sourceTree = "<group>"; };
+		7EA1A0F21775EC55000A5D83 /* ColorPanesRoundCornersIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ColorPanesRoundCornersIcon.png; path = "../../../../Dropbox/Iphone App Resources/ColorPanesRoundCornersIcon.png"; sourceTree = "<group>"; };
+		7EA1A0F61775EFA7000A5D83 /* ColorPanesRoundCornersIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ColorPanesRoundCornersIcon.png; path = "../../../../Dropbox/Iphone App Resources/ColorPanesRoundCornersIcon.png"; sourceTree = "<group>"; };
+		7EA1A0F81775EFD2000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ColorPanesRoundCornersIconRetinaDisplay.png; path = "../../../../Dropbox/Iphone App Resources/ColorPanesRoundCornersIconRetinaDisplay.png"; sourceTree = "<group>"; };
+		7EA1A0FA1775F006000A5D83 /* ColorPanesRoundCornersIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorPanesRoundCornersIcon.png; sourceTree = "<group>"; };
+		7EA1A0FC1775F014000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorPanesRoundCornersIconRetinaDisplay.png; sourceTree = "<group>"; };
+		7EA469D615FACDFA00D10848 /* gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gray.png; sourceTree = "<group>"; };
+		7EA71E3D16B422B2001952BB /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		7EA71E3F16B42716001952BB /* RewardSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = RewardSound.mp3; sourceTree = "<group>"; };
+		7EA71E4116B42751001952BB /* buzzer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = buzzer.mp3; sourceTree = "<group>"; };
+		7EAC488915E03DAD000721A6 /* ColorFlexes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorFlexes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EAC488D15E03DAD000721A6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		7EAC488F15E03DAD000721A6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		7EAC489115E03DAD000721A6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		7EAC489515E03DAD000721A6 /* ColorFlexes-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ColorFlexes-Info.plist"; sourceTree = "<group>"; };
+		7EAC489715E03DAD000721A6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7EAC489915E03DAD000721A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7EAC489B15E03DAD000721A6 /* ColorFlexes-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ColorFlexes-Prefix.pch"; sourceTree = "<group>"; };
+		7EAC489C15E03DAD000721A6 /* ColorFlexAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorFlexAppDelegate.h; sourceTree = "<group>"; };
+		7EAC489D15E03DAD000721A6 /* ColorFlexAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorFlexAppDelegate.m; sourceTree = "<group>"; };
+		7EAC48A715E04029000721A6 /* ColorFlexStartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorFlexStartViewController.h; sourceTree = "<group>"; };
+		7EAC48A815E04029000721A6 /* ColorFlexStartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorFlexStartViewController.m; sourceTree = "<group>"; };
+		7EAC48A915E04029000721A6 /* ColorFlexStartViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ColorFlexStartViewController.xib; sourceTree = "<group>"; };
+		7EAC48AC15E0424D000721A6 /* ColorFlexPlayScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorFlexPlayScreenViewController.h; sourceTree = "<group>"; };
+		7EAC48AD15E0424D000721A6 /* ColorFlexPlayScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorFlexPlayScreenViewController.m; sourceTree = "<group>"; };
+		7EAC48AE15E0424D000721A6 /* ColorFlexPlayScreenViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ColorFlexPlayScreenViewController.xib; sourceTree = "<group>"; };
+		7EB3205B15F230F200142DAB /* ColorFlexButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorFlexButton.h; sourceTree = "<group>"; };
+		7EB3205C15F230F200142DAB /* ColorFlexButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorFlexButton.m; sourceTree = "<group>"; };
+		7EE4740D16299ACF00A41184 /* blankState.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blankState.png; sourceTree = "<group>"; };
+		7EFE1DCC1615E5CA009A5EA2 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7EAC488615E03DAD000721A6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EA71E3E16B422B2001952BB /* AudioToolbox.framework in Frameworks */,
+				7EAC488E15E03DAD000721A6 /* UIKit.framework in Frameworks */,
+				7EAC489015E03DAD000721A6 /* Foundation.framework in Frameworks */,
+				7EAC489215E03DAD000721A6 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7EAC487E15E03DAD000721A6 = {
+			isa = PBXGroup;
+			children = (
+				7EA1A0FC1775F014000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png */,
+				7EA1A0FA1775F006000A5D83 /* ColorPanesRoundCornersIcon.png */,
+				7E1F3F68176FB78E00D40FD4 /* CirlcePinchWhirlIcon.png */,
+				7E1F3F66176FB77700D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png */,
+				7E3E7CD5176E215000CA3B21 /* CircleCrossIconRetinaDisplay.png */,
+				7E3E7CCF176E1FC300CA3B21 /* CircleCrossIcon.png */,
+				7E59FE2E176D4AB4006989A7 /* Default.png */,
+				7EFE1DCC1615E5CA009A5EA2 /* Default-568h@2x.png */,
+				7EAC489315E03DAD000721A6 /* ColorFlexes */,
+				7EAC488C15E03DAD000721A6 /* Frameworks */,
+				7EAC488A15E03DAD000721A6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7EAC488A15E03DAD000721A6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7EAC488915E03DAD000721A6 /* ColorFlexes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7EAC488C15E03DAD000721A6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7EA71E3D16B422B2001952BB /* AudioToolbox.framework */,
+				7EAC488D15E03DAD000721A6 /* UIKit.framework */,
+				7EAC488F15E03DAD000721A6 /* Foundation.framework */,
+				7EAC489115E03DAD000721A6 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7EAC489315E03DAD000721A6 /* ColorFlexes */ = {
+			isa = PBXGroup;
+			children = (
+				7EAC48AC15E0424D000721A6 /* ColorFlexPlayScreenViewController.h */,
+				7EAC48AD15E0424D000721A6 /* ColorFlexPlayScreenViewController.m */,
+				7EAC48AE15E0424D000721A6 /* ColorFlexPlayScreenViewController.xib */,
+				7EB3205B15F230F200142DAB /* ColorFlexButton.h */,
+				7EB3205C15F230F200142DAB /* ColorFlexButton.m */,
+				7EAC489C15E03DAD000721A6 /* ColorFlexAppDelegate.h */,
+				7EAC489D15E03DAD000721A6 /* ColorFlexAppDelegate.m */,
+				7EAC48A715E04029000721A6 /* ColorFlexStartViewController.h */,
+				7EAC48A815E04029000721A6 /* ColorFlexStartViewController.m */,
+				7EAC48A915E04029000721A6 /* ColorFlexStartViewController.xib */,
+				7EAC489415E03DAD000721A6 /* Supporting Files */,
+			);
+			path = ColorFlexes;
+			sourceTree = "<group>";
+		};
+		7EAC489415E03DAD000721A6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7E3E7CCD176E1FAE00CA3B21 /* CircleCrossIcon.png */,
+				7EAC489515E03DAD000721A6 /* ColorFlexes-Info.plist */,
+				7EAC489615E03DAD000721A6 /* InfoPlist.strings */,
+				7E721E9315F3A0E000C33AD7 /* yellow.png */,
+				7E721E9815F3A0F400C33AD7 /* green.png */,
+				7EA1A0F21775EC55000A5D83 /* ColorPanesRoundCornersIcon.png */,
+				7EA1A0F61775EFA7000A5D83 /* ColorPanesRoundCornersIcon.png */,
+				7EA1A0F81775EFD2000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png */,
+				7EA1A0F01775EC27000A5D83 /* ColorFlexesRoundCornersScreen.png */,
+				7E59FE2C176D4A74006989A7 /* StartScreenLineNova.png */,
+				7EE4740D16299ACF00A41184 /* blankState.png */,
+				7E1F3F62176FB74600D40FD4 /* CirlcePinchWhirlIcon.png */,
+				7E1F3F6A176FB8BC00D40FD4 /* StartScreenCirclePinchWhirl.png */,
+				7E3E7CC7176E1D9600CA3B21 /* StartScreenCircle.png */,
+				7E1F3F64176FB75800D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png */,
+				7E3E7CD3176E214100CA3B21 /* CircleCrossIconRetinaDisplay.png */,
+				7E5B36E915F505FE00D467E6 /* blue.png */,
+				7EA469D615FACDFA00D10848 /* gray.png */,
+				7E5B36EB15F50AA600D467E6 /* purple.png */,
+				7E5B36F415F5132B00D467E6 /* brown.png */,
+				7E5B36F115F50E1800D467E6 /* pink.png */,
+				7E59FE2A176D49A8006989A7 /* StartScreenLineNova.jpg */,
+				7E721E9A15F3A10200C33AD7 /* red.png */,
+				7E721E9615F3A0EA00C33AD7 /* orange.png */,
+				7EA71E4116B42751001952BB /* buzzer.mp3 */,
+				7EA71E3F16B42716001952BB /* RewardSound.mp3 */,
+				7EAC489915E03DAD000721A6 /* main.m */,
+				7E3E7CD1176E206100CA3B21 /* StartScreenCircle.png */,
+				7EAC489B15E03DAD000721A6 /* ColorFlexes-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7EAC488815E03DAD000721A6 /* ColorFlexes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7EAC48A115E03DAD000721A6 /* Build configuration list for PBXNativeTarget "ColorFlexes" */;
+			buildPhases = (
+				7EAC488515E03DAD000721A6 /* Sources */,
+				7EAC488615E03DAD000721A6 /* Frameworks */,
+				7EAC488715E03DAD000721A6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ColorFlexes;
+			productName = ColorFlexes;
+			productReference = 7EAC488915E03DAD000721A6 /* ColorFlexes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7EAC488015E03DAD000721A6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = ColorFlex;
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Bernard Snowden III";
+			};
+			buildConfigurationList = 7EAC488315E03DAD000721A6 /* Build configuration list for PBXProject "ColorFlexes" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7EAC487E15E03DAD000721A6;
+			productRefGroup = 7EAC488A15E03DAD000721A6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7EAC488815E03DAD000721A6 /* ColorFlexes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7EAC488715E03DAD000721A6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EAC489815E03DAD000721A6 /* InfoPlist.strings in Resources */,
+				7EAC48AB15E04029000721A6 /* ColorFlexStartViewController.xib in Resources */,
+				7EAC48B015E0424D000721A6 /* ColorFlexPlayScreenViewController.xib in Resources */,
+				7E721E9415F3A0E000C33AD7 /* yellow.png in Resources */,
+				7E721E9715F3A0EA00C33AD7 /* orange.png in Resources */,
+				7E721E9915F3A0F400C33AD7 /* green.png in Resources */,
+				7E721E9B15F3A10200C33AD7 /* red.png in Resources */,
+				7E5B36EA15F505FE00D467E6 /* blue.png in Resources */,
+				7E5B36EC15F50AA600D467E6 /* purple.png in Resources */,
+				7E5B36F215F50E1800D467E6 /* pink.png in Resources */,
+				7E5B36F515F5132B00D467E6 /* brown.png in Resources */,
+				7EA469D715FACDFA00D10848 /* gray.png in Resources */,
+				7EFE1DCD1615E5CA009A5EA2 /* Default-568h@2x.png in Resources */,
+				7EE4740E16299ACF00A41184 /* blankState.png in Resources */,
+				7EA71E4016B42716001952BB /* RewardSound.mp3 in Resources */,
+				7EA71E4216B42751001952BB /* buzzer.mp3 in Resources */,
+				7E59FE2B176D49A8006989A7 /* StartScreenLineNova.jpg in Resources */,
+				7E59FE2D176D4A74006989A7 /* StartScreenLineNova.png in Resources */,
+				7E59FE2F176D4AB4006989A7 /* Default.png in Resources */,
+				7E3E7CC8176E1D9600CA3B21 /* StartScreenCircle.png in Resources */,
+				7E3E7CCE176E1FAE00CA3B21 /* CircleCrossIcon.png in Resources */,
+				7E3E7CD0176E1FC300CA3B21 /* CircleCrossIcon.png in Resources */,
+				7E3E7CD2176E206100CA3B21 /* StartScreenCircle.png in Resources */,
+				7E3E7CD4176E214100CA3B21 /* CircleCrossIconRetinaDisplay.png in Resources */,
+				7E3E7CD6176E215000CA3B21 /* CircleCrossIconRetinaDisplay.png in Resources */,
+				7E1F3F63176FB74600D40FD4 /* CirlcePinchWhirlIcon.png in Resources */,
+				7E1F3F65176FB75800D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png in Resources */,
+				7E1F3F67176FB77700D40FD4 /* CirlcePinchWhirlIconRetinaDisplay.png in Resources */,
+				7E1F3F69176FB78E00D40FD4 /* CirlcePinchWhirlIcon.png in Resources */,
+				7E1F3F6B176FB8BC00D40FD4 /* StartScreenCirclePinchWhirl.png in Resources */,
+				7EA1A0F11775EC27000A5D83 /* ColorFlexesRoundCornersScreen.png in Resources */,
+				7EA1A0F31775EC55000A5D83 /* ColorPanesRoundCornersIcon.png in Resources */,
+				7EA1A0F91775EFD2000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png in Resources */,
+				7EA1A0FB1775F006000A5D83 /* ColorPanesRoundCornersIcon.png in Resources */,
+				7EA1A0FD1775F014000A5D83 /* ColorPanesRoundCornersIconRetinaDisplay.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7EAC488515E03DAD000721A6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EAC489A15E03DAD000721A6 /* main.m in Sources */,
+				7EAC489E15E03DAD000721A6 /* ColorFlexAppDelegate.m in Sources */,
+				7EAC48AA15E04029000721A6 /* ColorFlexStartViewController.m in Sources */,
+				7EAC48AF15E0424D000721A6 /* ColorFlexPlayScreenViewController.m in Sources */,
+				7EB3205D15F230F200142DAB /* ColorFlexButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7EAC489615E03DAD000721A6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7EAC489715E03DAD000721A6 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7EAC489F15E03DAD000721A6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bernard  Snowden III (EPJAF9SS92)";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "300E4967-9044-46B5-AB05-63FD31DBC385";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7EAC48A015E03DAD000721A6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bernard  Snowden III (EPJAF9SS92)";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "300E4967-9044-46B5-AB05-63FD31DBC385";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7EAC48A215E03DAD000721A6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ColorFlexes/ColorFlexes-Prefix.pch";
+				INFOPLIST_FILE = "ColorFlexes/ColorFlexes-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		7EAC48A315E03DAD000721A6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ColorFlexes/ColorFlexes-Prefix.pch";
+				INFOPLIST_FILE = "ColorFlexes/ColorFlexes-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7EAC488315E03DAD000721A6 /* Build configuration list for PBXProject "ColorFlexes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7EAC489F15E03DAD000721A6 /* Debug */,
+				7EAC48A015E03DAD000721A6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7EAC48A115E03DAD000721A6 /* Build configuration list for PBXNativeTarget "ColorFlexes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7EAC48A215E03DAD000721A6 /* Debug */,
+				7EAC48A315E03DAD000721A6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7EAC488015E03DAD000721A6 /* Project object */;
+}
